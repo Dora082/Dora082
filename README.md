@@ -2,7 +2,7 @@
 
 Meu nome é isadora, mas prefiro isa ✨
 
--estou estudando na [alura](https://www.alura.com.br)
+-estou fazendo cursos na [alura](https://www.alura.com.br)
 
 -aprendendo JavaScript...
 
